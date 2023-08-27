@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bv35dy297fn4b2j8?svg=true)](https://ci.appveyor.com/project/molottva/carddelivery2)
+[![Build status](https://ci.appveyor.com/api/projects/status/3cw9h15ryq9hgnx8?svg=true)](https://ci.appveyor.com/project/malushkru0878/carddelivery2)
 
 # Домашнее задание к занятию «2.3. Patterns»
 
